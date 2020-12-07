@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class ChatClient {
 
 	public static void main(String[] args) {
-		String ip = "localhost";
+		String ip = "localhost";	
 		int port = 1234;
 		/*서버에 연결하기 위해서는 ip주소 및 port번호 要*/
 		String uid = null;
